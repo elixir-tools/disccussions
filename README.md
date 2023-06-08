@@ -1,2 +1,3 @@
-# disccussions
-Discussion forum for all things Elixir developer tooling
+# Discussions
+
+Discussion forum for all things Elixir developer tooling!
